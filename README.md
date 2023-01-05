@@ -98,8 +98,12 @@ Use settings and hit again on Create Model for better modifications in 3D Model.
 
 Tutorial is presented in video.
 
-##Tutorial Video
-System is slow, plus I am no experienced yet well in video editing, fast forward where required. Thanks.
+# Tutorial Video
+System is slow, plus I am no experienced yet well in video editing, fast forward where required. Thanks. Click image to play videeo.
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=JlBjqOdS9sY" target="_blank"><img src="https://i9.ytimg.com/vi/JlBjqOdS9sY/mqdefault.jpg" alt="Click Image To Play Video" width="600" /></a>
+</p>
+
 
 ## 👩‍⚖️ License
 Copyright © MrMWUZ. 2022. All rights reserved.
