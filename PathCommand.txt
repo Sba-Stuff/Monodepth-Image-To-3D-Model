@@ -1,0 +1,1 @@
+"C:\Users\Muhammad  Wajeeh\Desktop\MonoDepth\python.exe" test_simple.py --image_path assets/land.jpg --model_name stereo_1024x320
