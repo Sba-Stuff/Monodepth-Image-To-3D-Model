@@ -63,15 +63,38 @@ Run Using python using command
 ```shell
 python.exe server.py
 ```
+<p align="center">
+  <img src="Instructions/Instructions1.jpg" alt="Run Server.py" width="600" />
+</p>
+
 Copy url and paste in browser. "Mostly its:
+
+<p align="center">
+  <img src="Instructions/Instructions2.jpg" alt="Run Server.py" width="600" />
+</p>
 
 ```shell
 127.0.0.1:5000
 ```
 
-Generate depth maps by uploading images. Make sure to save depthmaps.
+<p align="center">
+  <img src="Instructions/Instructions3.jpg" alt="Copy URL" width="600" />
+</p>
 
-Generate 3D models by uploading images and depthmaps.
+Generate depth maps by uploading images. Make sure to save depthmaps.
+<p align="center">
+  <img src="Instructions/Instructions4.jpg" alt="Generate Depth Maps" width="600" />
+</p>
+
+Generate 3D models by uploading images and depthmaps and clicking on Create Model in 3D Model Menu.
+<p align="center">
+  <img src="Instructions/Instructions5.jpg" alt="Create 3D Models" width="600" />
+</p>
+
+Use settings and hit again on Create Model for better modifications in 3D Model. Click On download obj to download model. Play with different parameters given for different results.
+<p align="center">
+  <img src="Instructions/Instructions6.jpg" alt="Play with Viewport" width="600" />
+</p>
 
 Tutorial is presented in video.
 
