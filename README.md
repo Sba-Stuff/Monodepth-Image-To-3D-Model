@@ -101,7 +101,7 @@ Tutorial is presented in video.
 # Tutorial Video
 System is slow, plus I am no experienced yet well in video editing, fast forward where required. Thanks. Click image to play videeo.
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=JlBjqOdS9sY" target="_blank"><img src="https://i9.ytimg.com/vi/JlBjqOdS9sY/mqdefault.jpg" alt="Click Image To Play Video" width="600" /></a>
+  <a href="https://www.youtube.com/watch?v=JlBjqOdS9sY" target="_blank"><img src="https://img.youtube.com/vi/JlBjqOdS9sY/sddefault.jpg" alt="Click Image To Play Video" width="600" /></a>
 </p>
 
 
